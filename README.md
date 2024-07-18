@@ -21,8 +21,8 @@ Ce projet utilise l'API Google AI Gemini-Pro et Streamlit pour résoudre des pro
 1. Clonez ce dépôt :
 
     ```bash
-    git clone https://github.com/votre_nom_utilisateur/votre_projet.git
-    cd votre_projet
+    git clone https://github.com/NyAary29/Resolution_recherche_op_rationelle
+    cd Resolution_recherche_op-rationelle
     ```
 
 2. Créez un environnement virtuel et activez-le :
@@ -57,8 +57,6 @@ Ce projet utilise l'API Google AI Gemini-Pro et Streamlit pour résoudre des pro
 ## Structure du Projet
 
 - `app.py` : Fichier principal de l'application Streamlit.
-- `extractor.py` : Module pour l'extraction des informations à partir de l'image.
-- `solver.py` : Module pour la résolution du problème de recherche opérationnelle.
 - `requirements.txt` : Liste des dépendances Python.
 
 ## Contribution
